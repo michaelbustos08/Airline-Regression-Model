@@ -6,12 +6,12 @@ A multiple linear regression model that predicts the number of airline delays by
 - Includes Source Dataset
 # Requirements
 - Python
-- pandas
-- numpy
-- sklearn(test_train_split, LinearRegression, mean_squared_error)
-- matplotlib
-- mplot3d
-- math
+- `pandas`
+- `numpy`
+- `sklearn(test_train_split, LinearRegression, mean_squared_error)`
+- `matplotlib`
+- `mplot3d`
+- `math`
 # Dataset
 "Flight Delay Data": Kaggle. Download Here: https://www.kaggle.com/datasets/sriharshaeedala/airline-delay?resource=download
 # Known Issues & Findings
