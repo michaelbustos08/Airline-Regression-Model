@@ -1,5 +1,5 @@
 # Airline-Regression-Model
-A multiple linear regression model that predicts the number of airline delays by 15 minutes, featuring a matplotlib visualization. This type of regression model predicting airline delays targets the largest bottleneck in the airline industry. The training data spans over 8,000 rows, primarily focusing on airports with arriving flights greater than 1000. This was purposefully chosen in order to pick a concentrated group for the most accurate findings and predictions.
+A multiple linear regression model that predicts the number of airline delays by 15 minutes, featuring a matplotlib visualization. Regression models predicting airline delays targets the largest bottleneck in the entire airline industry, delayed flights. The training data spans over 8,000 rows, primarily focusing on airports with arriving flights greater than 1000. This was purposefully chosen in order to pick a concentrated group for the most accurate findings and predictions.
 # Features
 - Multiple Linear Regression
 - Visualization of The 3D Plane, Scatter Plots, and Surface
